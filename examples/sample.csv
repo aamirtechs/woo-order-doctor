@@ -1,0 +1,12 @@
+Order ID,Order Date,Order Status,Billing Email,Customer,Order Total,Line Items,Refund Total
+1001,2026-11-02,completed,alice@example.com,Alice Reed,59.98,"Widget A x 2 @ 15.00 | Widget B x 1 @ 29.98",0.00
+1002,2026-11-03,processing,bob@example.com,Bob Lane,45.00,"Gadget C x 1 @ 40.00",0.00
+1003,2026-11-04,completed,,Carol Diaz,25.00,"Widget A x 1 @ 25.00",0.00
+1004,2026-10-20,completed,dana@example.com,Dana Kim,120.00,"Gadget D x 2 @ 60.00",120.00
+1005,2026-11-05,completed,eli@example.com,Eli Ford,0.00,,0.00
+1006,2026-11-01,processing,fay@example.com,Fay Moss,-15.00,,0.00
+1007,2026-10-01,pending,gus@example.com,Gus Hale,19.99,"Widget A x 1 @ 19.99",0.00
+1008,2026-11-05,pending,hal@example.com,Hal Ward,9.99,"Widget B x 1 @ 9.99",0.00
+1002,2026-11-03,processing,bob@example.com,Bob Lane,20.00,"Widget A x 1 @ 20.00",0.00
+1009,2026-09-01,on-hold,ida@example.com,Ida Cole,49.50,"Gadget C x 1 @ 49.50",0.00
+1010,2026-10-15,cancelled,jay@example.com,Jay Pope,30.00,"Widget A x 2 @ 15.00",0.00

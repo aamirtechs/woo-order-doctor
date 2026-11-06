@@ -1,0 +1,3 @@
+Order ID,Order Date,Order Status,Billing Email,Customer,Order Total,Line Items,Refund Total
+1001,2026-11-02,completed,alice@example.com,Alice Reed,59.98,"Widget A x 2 @ 15.00 | Widget B x 1 @ 29.98",0.00
+1002,2026-11-03,processing,bob@example.com,Bob Lane,20.00,"Widget A x 1 @ 20.00",0.00
